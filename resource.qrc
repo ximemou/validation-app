@@ -1,0 +1,20 @@
+<RCC>
+  <qresource>
+    <file>assets/icons/edit.svg</file>
+    <file>assets/icons/check.svg</file>
+    <file>assets/icons/x.svg</file>
+    <file>assets/loading.gif</file>
+    <file>assets/icons/loader.svg</file>
+    <file>assets/icons/forward-white.png</file>
+    <file>assets/icons/cancel-white.png</file>
+    <file>assets/icons/save-black.png</file>
+    <file>assets/icons/save-white.png</file>
+    <file>assets/icons/folder-yellow.png</file>
+    <file>assets/icons/play-white.png</file>
+    <file>assets/icons/folder-white.png</file>
+    <file>assets/icons/folder_black.png</file>
+    <file>assets/icons/file-text.svg</file>
+    <file>assets/icons/cancel.png</file>
+    <file>assets/icons/save.png</file>
+  </qresource>
+</RCC>
